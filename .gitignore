@@ -1,0 +1,6 @@
+# Data and images #
+###################
+*.npy
+*.hd5
+*.hdf5
+*.png
